@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hemanth Savanth</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%26+Full+Stack+Developer;Building+Intelligent+Systems;Open+to+Internships+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%26+Full+Stack+Developer;Building+Intelligent+Systems;Open+to+Work+%F0%9F%9A%80" />
 </p>
 
 ---
